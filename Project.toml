@@ -1,0 +1,20 @@
+name = "DummyApp"
+uuid = "26cc642e-2568-430c-a97a-1f3abe55fcde"
+authors = ["jeremie.db <jeremie.db@evovest.com>"]
+version = "0.1.0"
+
+[deps]
+Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
+Dash = "1b08a953-4be3-4667-9a23-3db579824955"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+PlotlyBase = "a03496cd-edff-5a9b-9e67-9cda94a718b5"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Tar = "a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
+
+[compat]
+CSV = "0.8"
