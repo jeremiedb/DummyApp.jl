@@ -83,7 +83,7 @@ callback!(app,
     end
     content_base64 = base64encode(content_raw)
 
-    sleep(60)
+    sleep(180)
 
     return Dict(:filename => "results.tar", :content => content_base64)
 
