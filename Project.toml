@@ -8,4 +8,4 @@ CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
 
 [compat]
 CSV = "0.10"
-julia = 1.9
+julia = "1.9"
